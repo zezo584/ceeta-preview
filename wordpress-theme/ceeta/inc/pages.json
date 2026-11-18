@@ -1,0 +1,93 @@
+[
+ {
+  "key": "home",
+  "slug": "",
+  "parent": null,
+  "en": "Home",
+  "ar": "الرئيسية"
+ },
+ {
+  "key": "about",
+  "slug": "about",
+  "parent": null,
+  "en": "About CEETA",
+  "ar": "من نحن"
+ },
+ {
+  "key": "services",
+  "slug": "services",
+  "parent": null,
+  "en": "Technical Services",
+  "ar": "الخدمات الفنية"
+ },
+ {
+  "key": "academy",
+  "slug": "academy",
+  "parent": null,
+  "en": "CEETA Academy",
+  "ar": "أكاديمية CEETA"
+ },
+ {
+  "key": "certifications",
+  "slug": "certifications",
+  "parent": null,
+  "en": "Certifications & Accreditations",
+  "ar": "الشهادات والاعتمادات"
+ },
+ {
+  "key": "contact",
+  "slug": "contact",
+  "parent": null,
+  "en": "Contact Us",
+  "ar": "تواصل معنا"
+ },
+ {
+  "key": "service-lifting-inspection",
+  "slug": "lifting-inspection",
+  "parent": "services",
+  "en": "Lifting Inspection",
+  "ar": "فحص معدات وأدوات الرفع"
+ },
+ {
+  "key": "service-non-destructive-testing-ndt",
+  "slug": "non-destructive-testing-ndt",
+  "parent": "services",
+  "en": "Non-Destructive Testing (NDT)",
+  "ar": "الاختبارات غير الإتلافية (NDT)"
+ },
+ {
+  "key": "service-tubular-inspection",
+  "slug": "tubular-inspection",
+  "parent": "services",
+  "en": "Tubular Inspection",
+  "ar": "فحص الأنابيب ومعدات الحفر"
+ },
+ {
+  "key": "service-cat-iii-cat-iv-rig-inspection",
+  "slug": "cat-iii-cat-iv-rig-inspection",
+  "parent": "services",
+  "en": "CAT III & CAT IV Rig Inspection",
+  "ar": "فحص منصات الحفر CAT III & CAT IV"
+ },
+ {
+  "key": "service-rig-auditing-rig-commissioning",
+  "slug": "rig-auditing-rig-commissioning",
+  "parent": "services",
+  "en": "Rig Auditing & Rig Commissioning",
+  "ar": "مراجعة منصات الحفر وتجهيزها للتشغيل"
+ },
+ {
+  "key": "service-lifting-planning-supervision",
+  "slug": "lifting-planning-supervision",
+  "parent": "services",
+  "en": "Lifting Planning & Supervision",
+  "ar": "تخطيط عمليات الرفع والإشراف عليها"
+ },
+ {
+  "key": "service-dropped-objects-survey",
+  "slug": "dropped-objects-survey",
+  "parent": "services",
+  "en": "Dropped Objects Surveying",
+  "ar": "مسح وتقييم مخاطر الأجسام الساقطة"
+ }
+]
