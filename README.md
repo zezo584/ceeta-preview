@@ -1,4 +1,4 @@
-# CEETA for Petroleum and Engineering Services — new website (v1.0)
+# CEETA for Petroleum and Engineering Services — new website (v1.0.1)
 
 Bilingual corporate website for **CEETA** — petroleum inspection, testing, engineering and HSE training.
 
@@ -15,7 +15,7 @@ Bilingual corporate website for **CEETA** — petroleum inspection, testing, eng
 | Path | What it is |
 |---|---|
 | `index.html`, `*.html`, `services/`, `ar/` + `assets/` | Clickable preview of the whole site (13 pages × 2 languages). |
-| `ceeta-theme.zip` | Installable WordPress theme, v1.0.0 (Appearance → Themes → Upload Theme). |
+| `ceeta-theme.zip` | Installable WordPress theme, v1.0.1 (Appearance → Themes → Upload Theme). |
 | `wordpress-theme/ceeta/` | Theme source code. |
 
 ## Pages
@@ -36,7 +36,11 @@ Bilingual corporate website for **CEETA** — petroleum inspection, testing, eng
 - Customizer (CEETA Options): contact details, social links, hero images, form recipient, SEO, preloader
 - Training gallery picker on the CEETA Academy page
 
-## To confirm before launch
+## Contact
 
-- Contact email (`info@ceeta-org.com` is a placeholder)
+- Email & inquiry form recipient: `services@ceeta-eps.com`
+- Phone & WhatsApp: +20 100 397 1910
+
+## To add before launch
+
 - Facebook and LinkedIn page URLs

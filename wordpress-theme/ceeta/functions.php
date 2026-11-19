@@ -7,7 +7,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'CEETA_VER', '1.0.0' );
+define( 'CEETA_VER', '1.0.1' );
 define( 'CEETA_DIR', get_template_directory() );
 define( 'CEETA_URI', get_template_directory_uri() );
 

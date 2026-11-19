@@ -81,7 +81,7 @@ add_action(
 			);
 		}
 
-		$text( 'form_email', 'Send inquiries to', 'ceeta_form', 'email', 'sanitize_email', 'Defaults to the contact email. Every inquiry is also saved in Dashboard → Inquiries.' );
+		$text( 'form_email', 'Send inquiries to', 'ceeta_form', 'email', 'sanitize_email', 'Default: services@ceeta-eps.com. Every inquiry is also saved in Dashboard → Inquiries.' );
 
 		$text( 'seo_title_en', 'Home page title (English)', 'ceeta_seo', 'text', 'sanitize_text_field', 'Optional — leave empty to use the built-in SEO title.' );
 		$text( 'seo_desc_en', 'Home page meta description (English)', 'ceeta_seo', 'textarea', 'sanitize_textarea_field' );

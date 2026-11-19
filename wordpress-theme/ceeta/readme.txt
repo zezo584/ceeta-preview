@@ -1,5 +1,5 @@
 === CEETA Petroleum & Engineering — WordPress Theme ===
-Version: 1.0.0 · Requires WordPress 6.0+ · PHP 7.4+
+Version: 1.0.1 · Requires WordPress 6.0+ · PHP 7.4+
 
 ------------------------------------------------------------------
 العربية — طريقة التركيب
@@ -16,7 +16,7 @@ Version: 1.0.0 · Requires WordPress 6.0+ · PHP 7.4+
   • الإيميل والتليفون والواتساب والعنوان ورابط/خريطة جوجل (تظهر في الشريط العلوي والفوتر وصفحة التواصل).
   • روابط فيسبوك ولينكدإن وإنستجرام.
   • صور سلايدر الهيرو (5 صور).
-  • الإيميل اللي بتوصله رسائل النموذج.
+  • الإيميل اللي بتوصله رسائل النموذج (الافتراضي: services@ceeta-eps.com).
   • عنوان ووصف SEO للصفحة الرئيسية (عربي/إنجليزي) + كود Google Search Console.
 - صور سلايدر التدريب (الرئيسية + الأكاديمية): الصفحات ← CEETA Academy ← صندوق "Training Gallery" ← اختر الصور ← تحديث.
   نص الـ Alt للصورة بيظهر كتعليق.
@@ -42,9 +42,10 @@ English — Quick start
    English lives at /, Arabic at /ar/ (e.g. /ar/academy/). If /ar/ URLs return 404, re-save Settings → Permalinks once.
 3) Appearance → Customize → CEETA Options: contact details, social links, hero images, form recipient, SEO, preloader.
 4) Pages → CEETA Academy → "Training Gallery" box: choose the training photos for the 3D slider (Home + Academy).
-5) Inquiries are emailed and stored under Dashboard → Inquiries. Install an SMTP plugin for reliable email delivery.
+5) Inquiries are emailed to services@ceeta-eps.com and stored under Dashboard → Inquiries. Install an SMTP plugin for reliable email delivery.
 6) Page texts: parts/en/*.php and parts/ar/*.php. Shared styles: assets/css/style.css. Scripts: assets/js/main.js.
 
-Before going live — please confirm:
-- Contact email (currently info@ceeta-org.com — placeholder).
+Contact email & form recipient: services@ceeta-eps.com (change anytime in the Customizer).
+
+Before going live — please add:
 - Facebook and LinkedIn page URLs (empty until set in the Customizer).

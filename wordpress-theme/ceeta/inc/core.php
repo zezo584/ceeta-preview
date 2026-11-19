@@ -30,7 +30,7 @@ function ceeta_data( $name ) {
 /** Default option values (editable in Appearance → Customize → CEETA Options). */
 function ceeta_defaults() {
 	return array(
-		'email'         => 'info@ceeta-org.com',
+		'email'         => 'services@ceeta-eps.com',
 		'phone_display' => '+20 100 397 1910',
 		'phone_tel'     => '+201003971910',
 		'whatsapp'      => '201003971910',
@@ -41,7 +41,7 @@ function ceeta_defaults() {
 		'instagram'     => 'https://www.instagram.com/ceeta40/',
 		'facebook'      => '',
 		'linkedin'      => '',
-		'form_email'    => '',
+		'form_email'    => 'services@ceeta-eps.com',
 		'preloader'     => '1',
 		'gsc'           => '',
 		'seo_title_en'  => '',
